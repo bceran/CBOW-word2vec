@@ -1,2 +1,2 @@
 # CBOW-word2vec
-Train a word2vec model with PyTorch
+In this project I tried to train my own word2vec with a small corpus.
